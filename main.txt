@@ -1,3 +1,1 @@
-id client : 410620235784-u1lbfkc2pkg2agvu8dp3h12r2ld30mln.apps.googleusercontent.com
 
-secret code : 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
